@@ -15,7 +15,7 @@ export class ReviewComponent implements OnInit {
   carauselData: any[] = [
       {
         index : 0,
-        image: '../../../assets/projects/libraryOneV2/01.png',
+        image: '../../../assets/reviewImages/01.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
@@ -23,7 +23,7 @@ export class ReviewComponent implements OnInit {
       },
       {
         index : 1,
-        image: '../../../assets/projects/libraryOneV2/01.png',
+        image: '../../../assets/reviewImages/02.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
@@ -31,7 +31,7 @@ export class ReviewComponent implements OnInit {
       },
       {
         index : 2,
-        image: '../../../assets/projects/libraryOneV2/01.png',
+        image: '../../../assets/reviewImages/03.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
@@ -39,7 +39,7 @@ export class ReviewComponent implements OnInit {
       },
       {
         index : 3,
-        image: '../../../assets/projects/libraryOneV2/04.png',
+        image: '../../../assets/reviewImages/04.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
@@ -47,7 +47,7 @@ export class ReviewComponent implements OnInit {
       },
       {
         index : 4,
-        image: '../../../assets/projects/libraryOneV2/03.png',
+        image: '../../../assets/reviewImages/05.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
@@ -55,7 +55,7 @@ export class ReviewComponent implements OnInit {
       },
       {
         index : 5,
-        image: '../../../assets/projects/libraryOneV2/02.png',
+        image: '../../../assets/reviewImages/06.jpg',
         review: 'Veniam proident aute magna anim excepteur et ex consectetur velit ullamco veniam minim aute sit. Elit occaecat officia et laboris Lorem minim. Officia do aliqua adipisicing ullamco in.',
         rating: 2.5,
         name: 'Simon Konecki',
